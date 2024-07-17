@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgaebler
-- 👀 I’m interested in React JS
+- 👀 I’m interested in software-engineering and software-architecture
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me here: https://mgaebler.me
