@@ -38,7 +38,7 @@ Infrastructure & Tooling
 - PostgreSQL, MongoDB
 - Linux
 - Git
-- Cypress
+- Playwright
 
 ---
 
